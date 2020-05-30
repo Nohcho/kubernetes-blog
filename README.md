@@ -1,0 +1,1 @@
+A monorepo for Blog service built on microservice architecture
