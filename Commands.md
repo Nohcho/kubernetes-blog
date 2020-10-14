@@ -1,4 +1,6 @@
-docker build -t aakhmiev/posts:0.0.2 .
+docker build -t aakhmiev/posts .
+
+docker push aakhmiev/posts
 
 kubectl apply -f posts-depl.yaml
 
